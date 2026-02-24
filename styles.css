@@ -1,6 +1,7 @@
 table{
 	/* border-color: orange; */
   border: 1px solid orange;
+	border-collapse:collapse;
 }
 .sub-total-text {
   text-align: right;
