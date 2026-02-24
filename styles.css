@@ -1,18 +1,12 @@
-/*  your css code here. If applicable */
 table{
-	text-align:center;
-	/* border:1px; */
-	/* border-width:1px;
-	border-color:orange; */
-	 /* border: 1px solid orange;
-	width:100%;
-	padding:3px 5px; */
+	/* border-color: orange; */
+  border: 1px solid orange;
+}
+.sub-total-text {
+  text-align: right;
 }
 th, td {
   text-align: center;
   border: 1px solid orange;
   padding: 3px 5px;
-}
-.sub-total-text{
-			text-align: right;
 }
