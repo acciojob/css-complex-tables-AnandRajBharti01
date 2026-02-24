@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+table{
+	text-align:center;
+	/* border:1px; */
+	/* border-width:1px;
+	border-color:orange; */
+	 border: 5px solid orange;
+	width:100%;
+}
+header{
+		background-color: #888888;
+}
