@@ -6,7 +6,7 @@ table{
 .sub-total-text {
   text-align: right;
 }
-th, td {
+thead, td {
   text-align: center;
   border: 1px solid orange;
   padding: 3px 5px;
