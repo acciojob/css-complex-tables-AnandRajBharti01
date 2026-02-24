@@ -25,4 +25,8 @@ th, td {
   padding: 3px 5px;
   text-align: center;
 }
+th{
+		color:white;
+	background-color:#888888;
+}
 
