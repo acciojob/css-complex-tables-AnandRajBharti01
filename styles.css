@@ -3,11 +3,11 @@ table{
   border: 1px solid orange;
 	border-collapse:collapse;
 }
-.sub-total-text {
+/* .sub-total-text {
   text-align: right;
-}
+} */
 thead, td {
   text-align: center;
-  border: 1px solid orange;
+  /* border: 1px solid orange; */
   padding: 3px 5px;
 }
