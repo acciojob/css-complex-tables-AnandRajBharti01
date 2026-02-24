@@ -4,9 +4,10 @@ table{
 	/* border:1px; */
 	/* border-width:1px;
 	border-color:orange; */
-	 border: 5px solid orange;
+	 border: 1px solid orange;
 	width:100%;
+	padding:3px 5px;
 }
-header{
-		background-color: #888888;
+.sub-total-text{
+			text-align:right;
 }
